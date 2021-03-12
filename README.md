@@ -48,7 +48,7 @@ If you use our code, please cite the following paper [(preprint)](https://arxiv.
 
     @inproceedings{Weiss2021Surprise,  
       title={A Review and Refinement of Surprise Adequacy},  
-      author={Weiss, Michael and Rwiddhi Chakraborty and Tonella, Paolo},  
+      author={Weiss, Michael and Chakraborty, Rwiddhi and Tonella, Paolo},  
       booktitle={ICSEW'21: Proceedings of the IEEE/ACM 43nd International Conference on Software Engineering Workshops},  
       year={2021},  
       organization={IEEE},  
