@@ -351,7 +351,7 @@ class LSA(SurpriseAdequacy):
         for label in range(self.config.num_classes):
             # Shape of (num_activation nodes x num_examples_by_label)
             row_vectors: np.ndarray = np.transpose(self.train_ats[self.class_matrix[label]])
-            positions: np.ndarray = np.where(np.var(row_vectors) < self.config.min_var_threshold)[0]
+            positions: np.ndarray = np.where(np.var(row_vectors, axis=1) < self.config.min_var_threshold)[0]
 
             for p in positions:
                 removed_rows.append(p)
