@@ -1,3 +1,12 @@
+# 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+**This repository is now archived.**
+
+If you are looking for a better implementation of surprise adequacy (which partially builds on this code here), 
+head over to our [dnn-tip library](https://github.com/testingautomated-usi/dnn-tip), 
+which is faster, better documented, easier to install and more widely applicable than the code in this repo.
+
+# 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
+
 # A Review and Refinement of Surprise Adequacy
 
 This repository contains the code of the paper "A Review and Refinement of Surprise Adequacy" 
